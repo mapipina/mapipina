@@ -2,7 +2,7 @@
 
 I’m an Engineering Manager and Full-Stack Developer with over 7 years of engineering experience and 3+ years managing distributed teams. 
 
-My leadership style adapts to the needs of the team and the organization. Whether that means operating as a servant leader to unblock developers and optimize agile delivery, or stepping in as a player-coach to stay close to the code, my goal is always to empower engineers and help them produce their best work.
+My leadership style adapts to the needs of the team and the organization. Whether that means operating as a servant leader or as a player-coach to stay close to the code, my goal is always to empower engineers and help them produce their best work.
 
 ### Languages, Libraries & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
